@@ -1,0 +1,115 @@
+{
+  "keyboard": {
+    "name": "Samsung Bilingual Keyboard - Maysam Khan",
+    "designer": "Maysam Khan",
+    "language": ["Persian", "English"],
+    "layout": "qwerty",
+    "version": "1.0",
+    "description": "A professional bilingual keyboard layout combining Persian and English characters with Samsung design principles",
+    "rows": [
+      {
+        "row": 1,
+        "name": "Top Row",
+        "keys": [
+          {"en": "Q", "fa": "ض", "width": 1},
+          {"en": "W", "fa": "ص", "width": 1},
+          {"en": "E", "fa": "ث", "width": 1},
+          {"en": "R", "fa": "ق", "width": 1},
+          {"en": "T", "fa": "ف", "width": 1},
+          {"en": "Y", "fa": "غ", "width": 1},
+          {"en": "U", "fa": "ع", "width": 1},
+          {"en": "I", "fa": "ه", "width": 1},
+          {"en": "O", "fa": "خ", "width": 1},
+          {"en": "P", "fa": "ح", "width": 1}
+        ]
+      },
+      {
+        "row": 2,
+        "name": "Middle Row",
+        "keys": [
+          {"en": "A", "fa": "ش", "width": 1},
+          {"en": "S", "fa": "س", "width": 1},
+          {"en": "D", "fa": "د", "width": 1},
+          {"en": "F", "fa": "ط", "width": 1},
+          {"en": "G", "fa": "ز", "width": 1},
+          {"en": "H", "fa": "ظ", "width": 1},
+          {"en": "J", "fa": "ت", "width": 1},
+          {"en": "K", "fa": "ن", "width": 1},
+          {"en": "L", "fa": "ل", "width": 1}
+        ]
+      },
+      {
+        "row": 3,
+        "name": "Bottom Row",
+        "keys": [
+          {"en": "Z", "fa": "ئ", "width": 1},
+          {"en": "X", "fa": "ب", "width": 1},
+          {"en": "C", "fa": "ج", "width": 1},
+          {"en": "V", "fa": "ی", "width": 1},
+          {"en": "B", "fa": "پ", "width": 1},
+          {"en": "N", "fa": "م", "width": 1},
+          {"en": "M", "fa": "گ", "width": 1}
+        ]
+      }
+    ],
+    "special_keys": {
+      "space": {
+        "label": "Space",
+        "width": 5,
+        "color": "silver"
+      },
+      "backspace": {
+        "label": "⌫",
+        "width": 1.5,
+        "color": "gray"
+      },
+      "enter": {
+        "label": "Enter",
+        "width": 1.5,
+        "color": "blue"
+      },
+      "shift": {
+        "label": "⇧",
+        "width": 2,
+        "color": "gray"
+      },
+      "language_switch": {
+        "label": "🌐 EN/FA",
+        "width": 1.5,
+        "color": "blue"
+      }
+    },
+    "numbers_row": {
+      "row": 0,
+      "name": "Numbers Row",
+      "keys": [
+        {"en": "1", "fa": "۱", "width": 1},
+        {"en": "2", "fa": "۲", "width": 1},
+        {"en": "3", "fa": "۳", "width": 1},
+        {"en": "4", "fa": "۴", "width": 1},
+        {"en": "5", "fa": "۵", "width": 1},
+        {"en": "6", "fa": "۶", "width": 1},
+        {"en": "7", "fa": "۷", "width": 1},
+        {"en": "8", "fa": "۸", "width": 1},
+        {"en": "9", "fa": "۹", "width": 1},
+        {"en": "0", "fa": "۰", "width": 1}
+      ]
+    },
+    "design": {
+      "theme": "Samsung Modern",
+      "style": "flat",
+      "colors": {
+        "key_background": "#E8E8E8",
+        "key_text": "#000000",
+        "special_key_background": "#4A90E2",
+        "special_key_text": "#FFFFFF",
+        "border": "#B0B0B0"
+      },
+      "font": {
+        "family": "Samsung Sans",
+        "size": "14px",
+        "weight": "500"
+      }
+    }
+  }
+}
